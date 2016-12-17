@@ -1,9 +1,5 @@
+exclude:
+- /library/.*
 component_depth: 1
 languages:
 - java
-
-exclude:
-- /core/.*
-- /web/.*
-- /ws/.*
-
