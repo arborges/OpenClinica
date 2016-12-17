@@ -1,4 +1,9 @@
+component_depth: 1
+languages:
+- java
+
 exclude:
-- /Core/.*
-- /Web/.*
-- /Ws/.*
+- /core/.*
+- /web/.*
+- /ws/.*
+
