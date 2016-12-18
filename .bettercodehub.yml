@@ -2,6 +2,6 @@ exclude:
 - /ws/.*
 - /ESOF_DOCS/.*
 - /web/.*
-component_depth: 1
+component_depth: 8
 languages:
 - java
