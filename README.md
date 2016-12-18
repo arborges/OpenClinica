@@ -1,3 +1,5 @@
+
+
 # Welcome!
 
 OpenClinica is an open source software for Electronic Data Capture (EDC) and Clinical Data Management (CDM) used to optimize clinical trial workflow in a smart and secure fashion. Use OpenClinica to:
@@ -36,3 +38,5 @@ To request a feature please submit a ticket on [Jira](https://jira.openclinica.c
 
 [GNU LGPL license](https://www.openclinica.com/gnu-lgpl-open-source-license)
 
+## Bettercodehub
+[![BCH compliance](https://bettercodehub.com/edge/badge/arborges/OpenClinica)](https://bettercodehub.com)
